@@ -1,0 +1,1859 @@
+1,Ap,GrndStSw1
+2,Ap,GrndStSw2
+3,Ap,GrndStS
+4,Ap,GrndStM
+5,Ap,GrndStH
+6,Ap,GrndMnSw1
+7,Ap,GrndMnSw2
+8,Ap,GrndMnS
+9,Ap,GrndMnM
+10,Ap,GrndMnH
+11,Ap,GrndStSw1+
+12,Ap,GrndStSw2+
+13,Ap,GrndStS+
+14,Ap,GrndStM+
+15,Ap,GrndStH+
+16,Ap,GrndMnSw1+
+17,Ap,GrndMnSw2+
+18,Ap,GrndMnS+
+19,Ap,GrndMnM+
+20,Ap,GrndMnH+
+21,Ap,GrndStSw1-
+22,Ap,GrndStSw2-
+23,Ap,GrndStS-
+24,Ap,GrndStM-
+25,Ap,GrndStH-
+26,Ap,GrndMnSw1-
+27,Ap,GrndMnSw2-
+28,Ap,GrndMnS-
+29,Ap,GrndMnM-
+30,Ap,GrndMnH-
+31,Ap,Brite Pno
+32,Ap,Brite Pno-
+33,Ap,CP80
+34,Ap,CP80+
+35,Ap,CP80-
+36,Ep,EP1 Soft
+37,Ep,EP1 Soft+
+38,Ep,EP1 Soft-
+39,Ep,EP1 Med
+40,Ep,EP1 Med+
+41,Ep,EP1 Med-
+42,Ep,EP1 Hard
+43,Ep,EP1 Hard+
+44,Ep,EP1 Hard-
+45,Ep,EP2 Soft1
+46,Ep,EP2 Soft1+
+47,Ep,EP2 Soft1-
+48,Ep,EP2 Soft2
+49,Ep,EP2 Soft2+
+50,Ep,EP2 Soft2-
+51,Ep,EP2 Hard1
+52,Ep,EP2 Hard1+
+53,Ep,EP2 Hard1-
+54,Ep,EP2 Hard2
+55,Ep,EP2 Hard2+
+56,Ep,EP2 Hard2-
+57,Ep,EP3 Soft1
+58,Ep,EP3 Soft1+
+59,Ep,EP3 Soft1-
+60,Ep,EP3 Soft2
+61,Ep,EP3 Soft2+
+62,Ep,EP3 Soft2-
+63,Ep,EP3 Hard1
+64,Ep,EP3 Hard1+
+65,Ep,EP3 Hard1-
+66,Ep,EP3 Hard2
+67,Ep,EP3 Hard2+
+68,Ep,EP3 Hard2-
+69,Ep,Wurli
+70,Ep,Wurli+
+71,Ep,Wurli-
+72,Ep,DX1
+73,Ep,DX2
+74,Ep,DX3
+75,Ep,DX4
+76,Ep,DX5
+77,Kb,Clav1
+78,Kb,Clav1+
+79,Kb,Clav1-
+80,Kb,Clav2
+81,Kb,Clav2+
+82,Kb,Clav2-
+83,Kb,Clav3
+84,Kb,Clav3+
+85,Kb,Clav3-
+86,Kb,Harpscd
+87,Cp,Celeste
+88,Cp,Vibraphone
+89,Cp,Mairmba
+90,Cp,GlockenSpl
+91,Cp,Xylophone
+92,Cp,TubularBel
+93,Cp,Bell
+94,Cp,BellSt1
+95,Cp,BellSt2
+96,Cp,BrBell
+97,Cp,SmBell
+98,Cp,FingerCym
+99,Cp,HandBell
+100,Cp,Hibasi
+101,Cp,StoneH
+102,Cp,StoneS
+103,Cp,WoodBell1
+104,Cp,WoodBell2
+105,Cp,TimpStSw
+106,Cp,TimpStSft
+107,Cp,TimpStHrd
+108,Cp,TimpSw L
+109,Cp,TimpSft L
+110,Cp,TimpHrd L
+111,Cp,TimpSw R
+112,Cp,TimpSft R
+113,Cp,TimpHrd R
+114,Or,RockVb
+115,Or,RockPc
+116,Or,Click
+117,Or,Rock2
+118,Or,Rock2+
+119,Or,Rock2-
+120,Or,JazzPrc
+121,Or,JazzPrc-
+122,Or,Jazz
+123,Or,Jazz+
+124,Or,Jazz-
+125,Or,Full
+126,Or,Full+
+127,Or,Full-
+128,Or,Swish
+129,Or,Swish-
+130,Or,Compact
+131,Or,Compact-
+132,Or,Portable
+133,Or,Portable-
+134,Or,BowNv
+135,Or,BowVb
+136,Or,Gospel
+137,Or,Soul
+138,Or,1stFour
+139,Or,Draw 16'
+140,Or,Draw 5 1/3
+141,Or,Draw 8'
+142,Or,Draw 4'
+143,Or,Draw 2 2/3
+144,Or,Draw 2'
+145,Or,Draw 1 3/5
+146,Or,Draw 1 1/3
+147,Or,Draw 1'
+148,Or,Draw 1+3
+149,Or,Draw 1+3+
+150,Or,Draw 1+3-
+151,Or,Draw 2+4
+152,Or,Draw 2+4+
+153,Or,Draw 2+4-
+154,Or,Draw Even
+155,Or,Draw Even+
+156,Or,Draw Even-
+157,Or,Draw Odd
+158,Or,Draw Odd+
+159,Or,Draw Odd-
+160,Or,Perc
+161,Or,Perc+
+162,Or,Perc-
+163,Or,Rotar
+164,Or,Clack
+165,Or,RotarWhstl
+166,Or,RotarGrit
+167,Or,RotarGrit2
+168,Or,SftTmp
+169,Or,Pipe1St
+170,Or,Pipe1L
+171,Or,Pipe1R
+172,Or,Pipe2
+173,Or,Pipe3St
+174,Or,Pipe3L
+175,Or,Pipe3R
+176,Or,Pipe4
+177,Or,Pipe5
+178,Or,Accordion
+179,Or,TangoAcd
+180,Gt,Nylon St
+181,Gt,Nylon L
+182,Gt,Nylon R
+183,Gt,NylonHrmSt
+184,Gt,NylonHrm L
+185,Gt,NylonHrm R
+186,Gt,StlOpnM St
+187,Gt,StlOpnM L
+188,Gt,StlOpnM R
+189,Gt,StlOpnH St
+190,Gt,StlOpnH L
+191,Gt,StlOpnH R
+192,Gt,StlHmmr St
+193,Gt,StlHmmr L
+194,Gt,StlHmmr R
+195,Gt,StlSld St
+196,Gt,StlSld L
+197,Gt,StlSld R
+198,Gt,StlHarm St
+199,Gt,StlHarm L
+200,Gt,StlHarm R
+201,Gt,StlMute St
+202,Gt,StlMute L
+203,Gt,StlMute R
+204,Gt,StlDead St
+205,Gt,StlDead L
+206,Gt,StlDead R
+207,Gt,StlFx St
+208,Gt,StlFx L
+209,Gt,StlFx R
+210,Gt,StlSw St
+211,Gt,StlSw Mn
+212,Gt,StlHmHmSt
+213,Gt,StlHmHmMn
+214,Gt,StlMtDdSt
+215,Gt,StlMtDdMn
+216,Gt,StlFxSdHrm
+217,Gt,StlFxSwHmr
+218,Gt,StlFxMtHmr
+219,Gt,StlFxDdHmr
+220,Gt,StlDdMtHmr
+221,Gt,HiStr S St
+222,Gt,HiStr S L
+223,Gt,HiStr S R
+224,Gt,HiStr H St
+225,Gt,HiStr H L
+226,Gt,HiStr H R
+227,Gt,HiStrFXSt
+228,Gt,HiStrFX L
+229,Gt,HiStrFX R
+230,Gt,HiStr FX2
+231,Gt,ClnOpenM
+232,Gt,ClnOpenH
+233,Gt,ClnHmmr
+234,Gt,ClnSlap
+235,Gt,ClnSlide
+236,Gt,ClnHarmo
+237,Gt,ClnMute
+238,Gt,ClnDead
+239,Gt,ClnFX
+240,Gt,ClnSwSlpFX
+241,Gt,ClnHmrHrm
+242,Gt,ClnMutDed
+243,Gt,ClnFxSdHrm
+244,Gt,ClFxSwSlHm
+245,Gt,ClnFxSwHmr
+246,Gt,ClnFxMtHmr
+247,Gt,ClnFxDdHmr
+248,Gt,ClnDdMtHmr
+249,Gt,Jazz Gtr
+250,Gt,VintAmpA
+251,Gt,VintAmpB
+252,Gt,Front
+253,Gt,HmBckrM
+254,Gt,HmBckrH
+255,Gt,Dist Open
+256,Gt,Dist Harmo
+257,Gt,Dist Mute
+258,Gt,Ovrdrv Opn
+259,Gt,Ovrdrv Mut
+260,Gt,Dist FX
+261,Gt,Dist/OvrFX
+262,Gt,FeedBack
+263,Gt,PwrChrdSt
+264,Gt,PwrChdMono
+265,Gt,PlayFx Mix
+266,Gt,PChdSt&Fx
+267,Gt,PChd&Fx
+268,Gt,Banjo
+269,Ba,Aco M
+270,Ba,Aco H
+271,Ba,Aco Harmo
+272,Ba,Aco Dead
+273,Ba,Aco FX
+274,Ba,Aco FX2
+275,Ba,Aco Ded FX
+276,Ba,Aco Sw
+277,Ba,Aco M+
+278,Ba,Aco H+
+279,Ba,Aco M-
+280,Ba,Aco H-
+281,Ba,PickOpen
+282,Ba,PickHarm
+283,Ba,PickMute
+284,Ba,PickDead
+285,Ba,Pick FX
+286,Ba,Pick Mt FX
+287,Ba,Pick Dd FX
+288,Ba,Pick+
+289,Ba,Pick Mt+
+290,Ba,Pick-
+291,Ba,Pick Mt-
+292,Ba,PickFxHrm
+293,Ba,PickFxOpn
+294,Ba,PickFxMute
+295,Ba,PickFxDead
+296,Ba,PickOpHarm
+297,Ba,Fing M
+298,Ba,Fing H
+299,Ba,FingHarmo
+300,Ba,Fng-Ded-FX
+301,Ba,Fing Sw
+302,Ba,Fing M+
+303,Ba,Fing H+
+304,Ba,Fing M-
+305,Ba,Fing H-
+306,Ba,Fing Dead
+307,Ba,PrecRW M
+308,Ba,PrecRW H
+309,Ba,PrecRW M+
+310,Ba,PrecRW H+
+311,Ba,PrecRW M-
+312,Ba,PrecRW H-
+313,Ba,PrecFW
+314,Ba,PrecFW+
+315,Ba,PrecFW-
+316,Ba,Slap
+317,Ba,Slap2
+318,Ba,SlapHarmo
+319,Ba,Frtls
+320,Ba,Frtls Hrm
+321,Ba,Frtls-DdFX
+322,Ba,Frtls+
+323,Ba,Frtls-
+324,Ba,Frtls Dead
+325,Ba,EBassFX
+326,St,ViolnStrt
+327,St,ViolnStrt+
+328,St,ViolnStrt-
+329,St,ViolinVb
+330,St,ViolinVb+
+331,St,ViolinVb-
+332,St,ViolinVb2
+333,St,ViolinVb2+
+334,St,ViolinVb2-
+335,St,ViolaVb
+336,St,ViolaVb+
+337,St,ViolaVb-
+338,St,ViolaVb2
+339,St,ViolaVb2+
+340,St,ViolaVb2-
+341,St,CelloVb
+342,St,CelloVb+
+343,St,CelloVb-
+344,St,CelloVb2
+345,St,CelloVb2+
+346,St,CelloVb2-
+347,St,Contrabass
+348,St,Contrabas+
+349,St,Contrabas-
+350,St,SoloVbCmb
+351,St,SoloVbCmb+
+352,St,SoloVbCmb-
+353,St,SoloVbCmb2
+354,St,SoloVbCm2+
+355,St,SoloVbCm2-
+356,St,SoloSpcCmb
+357,St,SoloSpCmb+
+358,St,SoloSpCmb-
+359,St,Pizz1 St
+360,St,Pizz1 Mn
+361,St,Pizz2
+362,St,Pizz3
+363,St,PopPizz
+364,St,EnsMix
+365,St,EnsMixSt
+366,St,EnsMixL
+367,St,EnsMixR
+368,St,EnsMute
+369,St,EnsMute-
+370,St,EnsMuteSt
+371,St,HardEnsSt
+372,St,HardEnsSt+
+373,St,HardEnsSt-
+374,St,HardEnsL
+375,St,HardEnsL+
+376,St,HardEnsL-
+377,St,HardEnsR
+378,St,HardEnsR+
+379,St,HardEnsR-
+380,St,EnsMxLPSt
+381,St,EnsMxLP L
+382,St,EnsMxLP R
+383,St,EnsMuteLP
+384,St,EnsMuteLP-
+385,St,EnsMutLPSt
+386,St,HrdEnsLPSt
+387,St,HrdEnsLP L
+388,St,HrdEnsLP R
+389,St,Harp
+390,Br,BrsSctSt
+391,Br,BrsSctSt+
+392,Br,BrsSctSt-
+393,Br,BrsSctL
+394,Br,BrsSctL+
+395,Br,BrsSctL-
+396,Br,BrsSctR
+397,Br,BrsSctR+
+398,Br,BrsSctR-
+399,Br,BrassFall
+400,Br,Trumpet1
+401,Br,Trumpet2M
+402,Br,Trumpet2H
+403,Br,TrmptMute
+404,Br,PicolTrmpt
+405,Br,Trombone
+406,Br,Trombone-
+407,Br,Trombone2
+408,Br,SoftTrb
+409,Br,SoftFlugel
+410,Br,SoftFlugl-
+411,Br,FlugelHorn
+412,Br,FrncHrn St
+413,Br,FrncHrn L
+414,Br,FrncHrn R
+415,Br,FrncHrnSt+
+416,Br,FrncHrn L+
+417,Br,FrncHrn R+
+418,Br,FrncHrnSt-
+419,Br,FrncHrn L-
+420,Br,FrncHrn R-
+421,Br,FrncHrSol
+422,Br,FrncHrSol+
+423,Br,FrncHrSol-
+424,Br,Tuba
+425,Rd,Soprano
+426,Rd,Soprano2
+427,Rd,Alto
+428,Rd,Alto2
+429,Rd,AltoSaxVb
+430,Rd,Tenor
+431,Rd,Tenor2
+432,Rd,Baritone
+433,Rd,Clarinet
+434,Rd,Clarinet2
+435,Rd,Oboe
+436,Rd,OboeVb
+437,Rd,EngHorn1
+438,Rd,EngHorn2
+439,Rd,Bassoon1
+440,Rd,Bassoon2
+441,Rd,Bagpipe1
+442,Rd,Bagpipe2
+443,Rd,SaxBreath
+444,Rd,Harmonica
+445,Rd,ChrmtcHarp
+446,Rd,BluesHarp
+447,Pi,Flute
+448,Pi,FluteVb
+449,Pi,FluteVbAtk
+450,Pi,Piccolo
+451,Pi,PanFlute
+452,Pi,PanFlute-
+453,Pi,IrishPipe
+454,Pi,Shakuhachi
+455,Pi,Recorder
+456,Pi,Bottle
+457,Pi,Ocarina
+458,Pi,Whistle
+459,Pi,BreathO.S.
+460,Pi,Didgerido1
+461,Pi,Didgerido2
+462,Pi,Didgerido3
+463,Pi,DidgCmb1
+464,Pi,DidgCmb2
+465,Pi,Sho
+466,Pi,Shanai
+467,Pi,Ney
+468,Pi,Kaval
+469,St,Keman
+470,Gt,Sitar
+471,Gt,SitarWv1
+472,Gt,SitarWv2
+473,Gt,SitarWv3
+474,Gt,SitarWv4
+475,Gt,SitarWv5
+476,Gt,SitarWv6
+477,Gt,Tambura
+478,Gt,TamburaWv1
+479,Gt,TamburaWv2
+480,Gt,TamburaWv3
+481,Gt,Santur
+482,Gt,Ud
+483,Gt,Kanun
+484,Gt,Baglama
+485,Gt,Bouzouk
+486,Gt,Shamisen
+487,Gt,Koto
+488,Cp,Kalimba
+489,Cp,Gamelan1
+490,Cp,Gamelan2
+491,Cp,SteelDrum
+492,Pc,Log1
+493,Pc,Log2
+494,Pc,Wataiko
+495,Pc,DjembeEd
+496,Pc,DjembeMt
+497,Pc,DjembeOp
+498,Pc,DjembeCmb
+499,Pc,TablaBya
+500,Pc,TablaNah
+501,Pc,TablaMut
+502,Pc,TablaCmb
+503,Pc,SmlTablDom
+504,Pc,SmlTablSnp
+505,Pc,SmlTablSak
+506,Pc,SmlTablTak
+507,Pc,BigTablDom
+508,Pc,BigTablTak
+509,Pc,BigTablSak
+510,Pc,TablaDom
+511,Pc,TablaTak1
+512,Pc,TablaTak2
+513,Pc,TablaTik1
+514,Pc,TablaTik2
+515,Pc,TablaTik3
+516,Pc,TablaSak1
+517,Pc,TablaTrem
+518,Pc,UdoFinger
+519,Pc,Udo Hi
+520,Pc,Udo Low
+521,Pc,UduCombi
+522,Pc,Dohol L
+523,Pc,Dohol H
+524,Pc,BarasimDom
+525,Pc,BarasimSak
+526,Pc,BarasimTak
+527,Pc,Segal Dom
+528,Pc,Segal Tak
+529,Pc,Twaisat
+530,Pc,Twaisat2
+531,Pc,Twaisat3
+532,Pc,Twaisat4
+533,Pc,LamaCym
+534,Pc,Mondira
+535,Pc,TibetanBel
+536,Pc,TibetnBowl
+537,Pc,Ghunghuru
+538,Vo,HahChoirSt
+539,Vo,HahChoir L
+540,Vo,HahChoir R
+541,Vo,OohChoirSt
+542,Vo,OohChoir L
+543,Vo,OohChoir R
+544,Vo,Ooh St
+545,Vo,Ooh L
+546,Vo,Ooh R
+547,Vo,ChoBreathL
+548,Vo,ChoBreathR
+549,Vo,ChoOohLPSt
+550,Vo,ChoOohLPL
+551,Vo,ChoOohLPR
+552,Vo,SynVox
+553,Vo,VoxNoiz
+554,Vo,Itopia
+555,Wv,PWMStrg St
+556,Wv,PWMStrg Mn
+557,Wv,LongSaw
+558,Wv,FatSaw St
+559,Wv,FatSawMn
+560,Wv,FatSawMn-
+561,Wv,OBModSaw
+562,Wv,VPStrngSt
+563,Wv,VPStrngL
+564,Wv,VPStrngR
+565,Wv,OBStrings
+566,Wv,SyzleStrng
+567,Wv,Padd
+568,Wv,Darklight
+569,Wv,OBBrass
+570,Wv,Trance St
+571,Wv,Trance Mn
+572,Wv,RingMod
+573,Wv,SyncLFO
+574,Wv,Sync
+575,Wv,SyncLd
+576,Wv,PWMfast
+577,Wv,PWMslow
+578,Wv,CS80Brass
+579,Wv,P5SawLp
+580,Wv,P5SawAtk
+581,Wv,P5SawAtRnd
+582,Wv,OBSaw
+583,Wv,Saw2
+584,Wv,3o3Saw
+585,Wv,3o3Saw2
+586,Wv,3o3Squ
+587,Wv,1o1Saw
+588,Wv,1o1Sub
+589,Wv,SawSqu
+590,Wv,SquSaw
+591,Wv,MiniBa1
+592,Wv,MiniBa2
+593,Wv,MiniBa3
+594,Wv,MiniBa3-a
+595,Wv,MiniBa3-b
+596,Wv,Q Synbass
+597,Wv,Punch
+598,Wv,SynthBa1
+599,Wv,SynthBa2
+600,Wv,BlipBass
+601,Wv,KlickBass
+602,Wv,PulsBass
+603,Wv,ShortUni
+604,Wv,NoiseBass
+605,Wv,MgRamp
+606,Wv,MgBass1
+607,Wv,MgBass2
+608,Wv,MgBass3
+609,Wv,ModBass
+610,Wv,AnaBass1
+611,Wv,AnaBass2
+612,Wv,UniBass
+613,Wv,AnaBass3
+614,Wv,AnaBass4
+615,Wv,AnaBass5
+616,Wv,AnaBass6
+617,Wv,T8KickBass
+618,Wv,FMBass1
+619,Wv,FMBass2
+620,Wv,FMBass3
+621,Wv,FMBass4
+622,Wv,FMBass5
+623,Wv,FMBass6
+624,Wv,MiniBlip1
+625,Wv,MiniBlip2
+626,Wv,MiniBlip3
+627,Wv,MiniBlip4
+628,Wv,MiniBlip5
+629,Wv,MiniBlip6
+630,Wv,FMSquare
+631,Wv,FMShaper
+632,Wv,FMMetal1
+633,Wv,FMMetal2
+634,Wv,FMOrgan1
+635,Wv,FMOrgan2
+636,Wv,FMOrgan3
+637,Wv,FMOrgan4
+638,Wv,DarkOrgan
+639,Wv,FMFunk
+640,Wv,FMGuitar
+641,Wv,FSBuzz
+642,Wv,WetPluck
+643,Wv,Lately-S
+644,Wv,Lately-L
+645,Wv,P10-1
+646,Wv,P10-2
+647,Wv,P10-3
+648,Wv,P25-1
+649,Wv,P25-2
+650,Wv,P50-1
+651,Wv,P50-2
+652,Wv,TriWv
+653,Wv,Digi01
+654,Wv,Digi02
+655,Wv,Digi03
+656,Wv,Digi04
+657,Wv,Digi05
+658,Wv,Digi06
+659,Wv,Digi07
+660,Wv,Digi08
+661,Wv,Digi09
+662,Wv,Digi10
+663,Wv,Digi11
+664,Wv,Digi12
+665,Wv,Bel1Wv
+666,Wv,Bel2Wv
+667,Wv,DigiVox1
+668,Wv,DigiVox2
+669,Wv,DigiVox3
+670,Wv,DigiVox4
+671,Wv,DigiVox5
+672,Wv,VoxG2
+673,Wv,VoxE3
+674,Wv,DigiEb
+675,Wv,DigiEg
+676,Wv,DigiBow1
+677,Wv,DigiBow2
+678,Wv,DigiOsc1
+679,Wv,DigiOsc2
+680,Wv,DigiOsc3
+681,Wv,DigiOsc4
+682,Wv,DigiOsc5
+683,Wv,DigiOsc6
+684,Wv,DigiOsc7
+685,Wv,Wave 1
+686,Wv,Wave 2
+687,Wv,Wave 3
+688,Wv,Wave 4
+689,Wv,Wave 5
+690,Wv,EP Wave 6
+691,Wv,Org Wave1
+692,Wv,Org Wave2
+693,Wv,Org Wave3
+694,Wv,DigiBell1
+695,Wv,DigiBell2
+696,Wv,DigiBell3
+697,Wv,DigiBell4
+698,Wv,DigiBell5
+699,Wv,DigiBell6
+700,Wv,DigiBell7
+701,Wv,Spectrum1
+702,Wv,Spectrum2
+703,Wv,Spectrum3
+704,Wv,Sine
+705,Wv,Noise
+706,Wv,VibeNP
+707,Me,Birch St
+708,Me,Birch L
+709,Me,Birch R
+710,Me,Willow St
+711,Me,Willow L
+712,Me,Willow R
+713,Me,Anemone St
+714,Me,Anemone L
+715,Me,Anemone R
+716,Me,MagnitudSt
+717,Me,Magnitud L
+718,Me,Magnitud R
+719,Me,SabreTone
+720,Me,StrngPadSt
+721,Me,StrngPad L
+722,Me,StrngPad R
+723,Me,VocalRes
+724,Me,OrchHit1St
+725,Me,OrchHit1 L
+726,Me,OrchHit1 R
+727,Me,OrchHit2St
+728,Me,OrchHit2 L
+729,Me,OrchHit2 R
+730,Me,OrchHit3
+731,Me,VoxBell
+732,Me,Melow
+733,Me,WindChime
+734,Me,BellAir
+735,Me,BigSyn
+736,Me,TranCho
+737,Me,StabOrgLP
+738,Me,Eery
+739,Me,Electer
+740,Me,HH Hit
+741,Me,VoxAlk
+742,Me,MultiPiano
+743,Me,BellChoir
+744,Me,DirtyPerc
+745,Me,HiLo
+746,Me,AirHoseSt
+747,Me,AirHoseL
+748,Me,AirHoseR
+749,Me,Bubble
+750,Me,Swarm
+751,Me,Lektronica
+752,Me,SpaceScrem
+753,Me,RadioNz
+754,Me,OohFB
+755,Me,Fairwave
+756,Me,Hoo
+757,Me,Mind Bell
+758,Me,Loop145
+759,Me,X-Fade
+760,Me,ResoXFade
+761,Me,Quiek
+762,Me,LfoSeq
+763,Me,HopFX1
+764,Me,HopFX2
+765,Me,Sonar1
+766,Me,Sonar2
+767,Me,HitOrch1
+768,Me,HitBrass
+769,Me,StabOrch
+770,Me,StabGiant
+771,Me,StabHard
+772,Me,StabOrgan2
+773,Me,StabAah
+774,Me,Hit Uhh
+775,Me,HitOrch2
+776,Me,VoxDrum
+777,Me,Raspberry
+778,Me,DigiBreath
+779,Me,EngnRoomSt
+780,Me,EngnRoom L
+781,Me,EngnRoom R
+782,Me,DigiHeli
+783,Me,Shower St
+784,Me,Shower L
+785,Me,Shower R
+786,Me,ComputerSt
+787,Me,Computer L
+788,Me,Computer R
+789,Me,Chatter
+790,Se,Ripper
+791,Se,Glass
+792,Se,BellFX1
+793,Se,BellFX2
+794,Se,IndusTom
+795,Se,NzBurst
+796,Se,Zap1
+797,Se,Zap2
+798,Se,ElPerc1
+799,Se,ElPerc2
+800,Se,ElPerc3
+801,Se,ElPerc4
+802,Se,ElPerc5
+803,Se,ElPerc6
+804,Se,ElPerc7
+805,Se,ElPerc8
+806,Se,ElPerc9
+807,Se,ElPerc10
+808,Se,ElPerc11
+809,Se,ElPerc12
+810,Se,ElPerc13
+811,Se,ElPerc14
+812,Se,ElPerc15
+813,Se,HiQ1
+814,Se,HiQ2
+815,Se,VoxHitRev
+816,Se,Bomb
+817,Se,TapeRewnd
+818,Se,FxGun2
+819,Se,FxGun1
+820,Se,Thunder
+821,Se,TurnTable
+822,Se,Police
+823,Se,DoorSqk
+824,Se,HeartBeat
+825,Se,Helicopter
+826,Se,Seashore
+827,Se,Telephone
+828,Se,TelRing
+829,Se,Bird
+830,Se,Stream
+831,Se,Gunshot
+832,Se,Applause
+833,Se,RainLoop
+834,Se,Scratch H
+835,Se,Scratch L
+836,Se,ScratchDwn
+837,Se,ScratchHiF
+838,Se,ScratchHiR
+839,Se,ScratchLoF
+840,Se,ScratchLoR
+841,Se,ScratchBdF
+842,Se,ScratchBdR
+843,Se,ScratchSdF
+844,Se,ScratchSdR
+845,Se,ScratchVoF
+846,Se,ScratchVoR
+847,Se,ScratchStp
+848,Se,ScratchSpn
+849,Se,ScratchHip
+850,Se,ScratchHp2
+851,Se,ScratchAtk
+852,Se,ScratchR&B
+853,Se,ScratchCmb
+854,Se,ScratchCb2
+855,Se,ScratchCb3
+856,Se,ScratchCb4
+857,Pc,Conga Opn
+858,Pc,CongaOpSlp
+859,Pc,CongaTip
+860,Pc,CongaBtm
+861,Pc,CongaStick
+862,Pc,Quint1Opn
+863,Pc,Quint1Slp
+864,Pc,Quint2Opn
+865,Pc,Quint2Heel
+866,Pc,TumbaOpen
+867,Pc,TumbaSlp
+868,Pc,TumbaTip
+869,Pc,TumbaHeel
+870,Pc,CuicaLo
+871,Pc,CuicaHi
+872,Pc,Bongo L
+873,Pc,Bongo H1
+874,Pc,Bongo H2
+875,Pc,TmbaleH1-3
+876,Pc,TimbaleHi1
+877,Pc,TimbaleHi2
+878,Pc,TimbaleHi3
+879,Pc,TmbaleL1-3
+880,Pc,TimbaleLo1
+881,Pc,TimbaleLo2
+882,Pc,TimbaleRim
+883,Pc,TmblPailaH
+884,Pc,TmblPailaL
+885,Pc,Paila L
+886,Pc,Paila H
+887,Pc,GanzaAc
+888,Pc,GanzaBk
+889,Pc,GanzaFw
+890,Pc,Maracas1-2
+891,Pc,MaracasSlr
+892,Pc,MaracasStc
+893,Pc,Cabasa1-2
+894,Pc,Cabasa1
+895,Pc,Cabasa2
+896,Pc,Caxixi1-2
+897,Pc,Caxixi1
+898,Pc,Caxixi2
+899,Pc,Shaker 1
+900,Pc,Shaker 2
+901,Pc,Shaker 3
+902,Pc,ShakerHip1
+903,Pc,ShakerHip2
+904,Pc,ShakerHip3
+905,Pc,ShakerHip4
+906,Pc,ShekereDw
+907,Pc,ShekereUp
+908,Pc,ShekereSap
+909,Pc,Tumbo 1
+910,Pc,Tumbo 2
+911,Pc,Tumbo 3
+912,Pc,TambrnSw
+913,Pc,TambrnHit
+914,Pc,TambrnShk
+915,Pc,PandieroOp
+916,Pc,PandierThm
+917,Pc,PandierTip
+918,Pc,PandroHeel
+919,Pc,TmbourimOp
+920,Pc,TmbourmFng
+921,Pc,TmbourimMt
+922,Pc,AgogoHi
+923,Pc,AgogoLo
+924,Pc,AgogoLoTap
+925,Pc,GuiroLong
+926,Pc,GuiroShort
+927,Pc,GuiroSwp
+928,Pc,SurdoOp
+929,Pc,SurdoMt
+930,Pc,Stick
+931,Pc,Stick2
+932,Pc,Castanet
+933,Pc,Clave
+934,Pc,WoodBlock
+935,Pc,Vibraslap
+936,Pc,Whistle
+937,Pc,TriangleSw
+938,Pc,TriangleOp
+939,Pc,TriangleMt
+940,Pc,HandClapSt
+941,Pc,HandClapL
+942,Pc,HandClapR
+943,Pc,Handbell L
+944,Pc,Handbell H
+945,Pc,Cowbell1
+946,Pc,Cowbell2
+947,Pc,MamboBl1
+948,Pc,MamboBl2
+949,Pc,MamboBdy
+950,Pc,ChaCha
+951,Pc,SleighBel
+952,Pc,BellTree
+953,Pc,ClapT9
+954,Pc,ClapAnSm
+955,Pc,ElClap1
+956,Pc,ElClap2
+957,Pc,CongaT8
+958,Pc,CowBelT8
+959,Pc,CowBelRX11
+960,Pc,CowBelAnCR
+961,Pc,ElCowbell
+962,Pc,AnaShaker
+963,Pc,TambrnRX5
+964,Pc,TambrnAnCR
+965,Pc,ElTambrn1
+966,Pc,ElTambrn2
+967,Pc,MarcsT8
+968,Pc,ElMarcs
+969,Pc,ClaveT8
+970,Pc,ElTriangl
+971,Pc,AnaClick
+972,Dr,BdSnap1-2
+973,Dr,BdSnap1
+974,Dr,BdSnap2
+975,Dr,BdSnapL1-2
+976,Dr,BdSnapR1-2
+977,Dr,BdSnapL1
+978,Dr,BdSnapL2
+979,Dr,BdSnapR1
+980,Dr,BdSnapR2
+981,Dr,BdTigt1-2
+982,Dr,BdTigt1
+983,Dr,BdTigt2
+984,Dr,BdTigtL1-2
+985,Dr,BdTigtR1-2
+986,Dr,BdTigtL1
+987,Dr,BdTigtL2
+988,Dr,BdTigtR1
+989,Dr,BdTigtR2
+990,Dr,BdAmb1-2
+991,Dr,BdAmb1
+992,Dr,BdAmb2
+993,Dr,BdAmbL1-2
+994,Dr,BdAmbR1-2
+995,Dr,BdAmbL1
+996,Dr,BdAmbL2
+997,Dr,BdAmbR1
+998,Dr,BdAmbR2
+999,Dr,BdNmSt1-2
+1000,Dr,BdNm1St
+1001,Dr,BdNm2St
+1002,Dr,BdNmL1-2
+1003,Dr,BdNmR1-2
+1004,Dr,BdNm1L
+1005,Dr,BdNm1R
+1006,Dr,BdNm2L
+1007,Dr,BdNm2R
+1008,Dr,BdFkSt1-2
+1009,Dr,BdFk1St
+1010,Dr,BdFk2St
+1011,Dr,BdFkL1-2
+1012,Dr,BdFkR1-2
+1013,Dr,BdFkML
+1014,Dr,BdFkMR
+1015,Dr,BdFkHL
+1016,Dr,BdFkHR
+1017,Dr,BdHiSt
+1018,Dr,BdHiL
+1019,Dr,BdHiR
+1020,Dr,BdLoSt
+1021,Dr,BdLoL
+1022,Dr,BdLoR
+1023,Dr,BdHSonSt
+1024,Dr,BdHSonL
+1025,Dr,BdHSonR
+1026,Dr,BdLSonSt
+1027,Dr,BdLSonL
+1028,Dr,BdLSonR
+1029,Dr,BdFkSonSt
+1030,Dr,BdFkSonL
+1031,Dr,BdFkSonR
+1032,Dr,BdRk1St
+1033,Dr,BdRk1L
+1034,Dr,BdRk1R
+1035,Dr,BdRk2St
+1036,Dr,BdRk2L
+1037,Dr,BdRk2R
+1038,Dr,BdDry1
+1039,Dr,BdDry2
+1040,Dr,BdPop
+1041,Dr,BdVar1
+1042,Dr,BdVar2
+1043,Dr,BdRoom1
+1044,Dr,BdRoom2
+1045,Dr,BdRoom3
+1046,Dr,GrnCasOpSt
+1047,Dr,GrnCasOp L
+1048,Dr,GrnCasOp R
+1049,Dr,GrnCasMtSt
+1050,Dr,GrnCasMt L
+1051,Dr,GrnCasMt R
+1052,Dr,BdGate
+1053,Dr,BdFXGate
+1054,Dr,BdT9-1
+1055,Dr,BdT9-2
+1056,Dr,BdT9-3
+1057,Dr,BdT9-4
+1058,Dr,BdT9Hd1
+1059,Dr,BdT9Hd2
+1060,Dr,BdT9Hd3
+1061,Dr,BdT8-1
+1062,Dr,BdT8-2
+1063,Dr,BdT8-3
+1064,Dr,BdAnSm
+1065,Dr,BdAnCR
+1066,Dr,BdHuman1
+1067,Dr,BdHuman2
+1068,Dr,BdBlip
+1069,Dr,BdBlpHd
+1070,Dr,BdJngl1
+1071,Dr,BdJngl2
+1072,Dr,BdJngl3
+1073,Dr,BdD&B1
+1074,Dr,BdD&B2
+1075,Dr,BdR&B1
+1076,Dr,BdR&B2
+1077,Dr,BdHipDp
+1078,Dr,BdBrkDp
+1079,Dr,BdBreak1
+1080,Dr,BdBreak2
+1081,Dr,BdBreakHvy
+1082,Dr,BdBreakHrd
+1083,Dr,BdDist1
+1084,Dr,BdDist2
+1085,Dr,BdDist3
+1086,Dr,BdDist4
+1087,Dr,BdDist5
+1088,Dr,BdDistRM
+1089,Dr,Bd+HH
+1090,Dr,BdFxHmr
+1091,Dr,BdZapHrd
+1092,Dr,BdZapMid
+1093,Dr,BdSus
+1094,Dr,BdTekPower
+1095,Dr,BdHardLong
+1096,Dr,BdATite
+1097,Dr,BdAnHard
+1098,Dr,BdLofi
+1099,Dr,BdThkSkn
+1100,Dr,BdSlimy
+1101,Dr,BdElec1
+1102,Dr,BdElec2
+1103,Dr,BdElec3
+1104,Dr,BdElec4
+1105,Dr,BdElComp1
+1106,Dr,BdElComp2
+1107,Dr,BdElComp3
+1108,Dr,BdElFX1
+1109,Dr,BdElFX2
+1110,Dr,BdElGate
+1111,Dr,BdElClick
+1112,Dr,BdElPwr1
+1113,Dr,BdElPwr2
+1114,Dr,SdBldSt1-4
+1115,Dr,SdBldSt1-3
+1116,Dr,SdBldSt2-4
+1117,Dr,SdBldSt1-2
+1118,Dr,SdBldSt2-3
+1119,Dr,SdBldSt3-4
+1120,Dr,SdBldSt1
+1121,Dr,SdBldSt2
+1122,Dr,SdBldSt3
+1123,Dr,SdBldSt4
+1124,Dr,SdBldL1-4
+1125,Dr,SdBldR1-4
+1126,Dr,SdBldL1
+1127,Dr,SdBldL2
+1128,Dr,SdBldL3
+1129,Dr,SdBldL4
+1130,Dr,SdBldR1
+1131,Dr,SdBldR2
+1132,Dr,SdBldR3
+1133,Dr,SdBldR4
+1134,Dr,SdSolSt1-4
+1135,Dr,SdSolSt1-3
+1136,Dr,SdSolSt2-4
+1137,Dr,SdSolSt1-2
+1138,Dr,SdSolSt2-3
+1139,Dr,SdSolSt3-4
+1140,Dr,SdSolL1-4
+1141,Dr,SdSolR1-4
+1142,Dr,SdSolSt1
+1143,Dr,SdSolSt2
+1144,Dr,SdSolSt3
+1145,Dr,SdSolSt4
+1146,Dr,SdSolL1
+1147,Dr,SdSolL2
+1148,Dr,SdSolL3
+1149,Dr,SdSolL4
+1150,Dr,SdSolR1
+1151,Dr,SdSolR2
+1152,Dr,SdSolR3
+1153,Dr,SdSolR4
+1154,Dr,SdPwrSt1-4
+1155,Dr,SdPwrSt1-3
+1156,Dr,SdPwrSt2-4
+1157,Dr,SdPwrSt1-2
+1158,Dr,SdPwrSt2-3
+1159,Dr,SdPwrSt3-4
+1160,Dr,SdPwrSt1
+1161,Dr,SdPwrSt2
+1162,Dr,SdPwrSt3
+1163,Dr,SdPwrSt4
+1164,Dr,SdPwrL1-4
+1165,Dr,SdPwrR1-4
+1166,Dr,SdPwrL1
+1167,Dr,SdPwrL2
+1168,Dr,SdPwrL3
+1169,Dr,SdPwrL4
+1170,Dr,SdPwrR1
+1171,Dr,SdPwrR2
+1172,Dr,SdPwrR3
+1173,Dr,SdPwrR4
+1174,Dr,SdRngSt1-4
+1175,Dr,SdRngSt1-3
+1176,Dr,SdRngSt2-4
+1177,Dr,SdRngSt1-2
+1178,Dr,SdRngSt2-3
+1179,Dr,SdRngSt3-4
+1180,Dr,SdRngSt1
+1181,Dr,SdRngSt2
+1182,Dr,SdRngSt3
+1183,Dr,SdRngSt4
+1184,Dr,SdRngL1-4
+1185,Dr,SdRngR1-4
+1186,Dr,SdRngL1
+1187,Dr,SdRngL2
+1188,Dr,SdRngL3
+1189,Dr,SdRngL4
+1190,Dr,SdRngR1
+1191,Dr,SdRngR2
+1192,Dr,SdRngR3
+1193,Dr,SdRngR4
+1194,Dr,SdNmSt1-4
+1195,Dr,SdNmSt1-3
+1196,Dr,SdNmSt2-4
+1197,Dr,SdNmSt1-2
+1198,Dr,SdNmSt2-3
+1199,Dr,SdNmSt3-4
+1200,Dr,SdNm1St
+1201,Dr,SdNm2St
+1202,Dr,SdNm3St
+1203,Dr,SdNm4St
+1204,Dr,SdNmL1-4
+1205,Dr,SdNmR1-4
+1206,Dr,SdNm1L
+1207,Dr,SdNm1R
+1208,Dr,SdNm2L
+1209,Dr,SdNm2R
+1210,Dr,SdNm3L
+1211,Dr,SdNm3R
+1212,Dr,SdNm4L
+1213,Dr,SdNm4R
+1214,Dr,SdFkSt1-3
+1215,Dr,SdFkSt1-2
+1216,Dr,SdFkSt2-3
+1217,Dr,SdFkSt1/3
+1218,Dr,SdFk1St
+1219,Dr,SdFk2St
+1220,Dr,SdFk3St
+1221,Dr,SdFkL1-3
+1222,Dr,SdFkR1-3
+1223,Dr,SdFk1L
+1224,Dr,SdFk1R
+1225,Dr,SdFk2L
+1226,Dr,SdFk2R
+1227,Dr,SdFk3L
+1228,Dr,SdFk3R
+1229,Dr,SdFkAySt
+1230,Dr,SdFkAyL
+1231,Dr,SdFkAyR
+1232,Dr,SdBsSt1-3
+1233,Dr,SdBsSt1-2
+1234,Dr,SdBsSt2-3
+1235,Dr,SdBsSt1/3
+1236,Dr,SdBs1St
+1237,Dr,SdBs2St
+1238,Dr,SdBs3St
+1239,Dr,SdBsL1-3
+1240,Dr,SdBsR1-3
+1241,Dr,SdBs1L
+1242,Dr,SdBs1R
+1243,Dr,SdBs2L
+1244,Dr,SdBs2R
+1245,Dr,SdBs3L
+1246,Dr,SdBs3R
+1247,Dr,SdSonSt1-4
+1248,Dr,SdSonSt1-3
+1249,Dr,SdSonSt2-4
+1250,Dr,SdSonSt1-2
+1251,Dr,SdSonSt2-3
+1252,Dr,SdSonSt3-4
+1253,Dr,SdSon1St
+1254,Dr,SdSon2St
+1255,Dr,SdSon3St
+1256,Dr,SdSon4St
+1257,Dr,SdSonL1-4
+1258,Dr,SdSonR1-4
+1259,Dr,SdSon1L
+1260,Dr,SdSon1R
+1261,Dr,SdSon2L
+1262,Dr,SdSon2R
+1263,Dr,SdSon3L
+1264,Dr,SdSon3R
+1265,Dr,SdSon4L
+1266,Dr,SdSon4R
+1267,Dr,SdBlSt1-3
+1268,Dr,SdBlSt1-2
+1269,Dr,SdBlSt2-3
+1270,Dr,SdBlSt1/3
+1271,Dr,SdBl1St
+1272,Dr,SdBl2St
+1273,Dr,SdBl3St
+1274,Dr,SdBlL1-3
+1275,Dr,SdBlR1-3
+1276,Dr,SdBl1L
+1277,Dr,SdBl1R
+1278,Dr,SdBl2L
+1279,Dr,SdBl2R
+1280,Dr,SdBl3L
+1281,Dr,SdBl3R
+1282,Dr,SdBhSt1-3
+1283,Dr,SdBhSt1-2
+1284,Dr,SdBhSt2-3
+1285,Dr,SdBhSt1/3
+1286,Dr,SdBh1St
+1287,Dr,SdBh2St
+1288,Dr,SdBh3St
+1289,Dr,SdBhL1-3
+1290,Dr,SdBhR1-3
+1291,Dr,SdBh1L
+1292,Dr,SdBh1R
+1293,Dr,SdBh2L
+1294,Dr,SdBh2R
+1295,Dr,SdBh3L
+1296,Dr,SdBh3R
+1297,Dr,SdTgtSt1-4
+1298,Dr,SdTgtSt1-3
+1299,Dr,SdTgtSt2-4
+1300,Dr,SdTgtSt1-2
+1301,Dr,SdTgtSt2-3
+1302,Dr,SdTgtSt3-4
+1303,Dr,SdTgt1St
+1304,Dr,SdTgt2St
+1305,Dr,SdTgt3St
+1306,Dr,SdTgt4St
+1307,Dr,SdTgtL1-4
+1308,Dr,SdTgtR1-4
+1309,Dr,SdTgt1L
+1310,Dr,SdTgt1R
+1311,Dr,SdTgt2L
+1312,Dr,SdTgt2R
+1313,Dr,SdTgt3L
+1314,Dr,SdTgt3R
+1315,Dr,SdTgt4L
+1316,Dr,SdTgt4R
+1317,Dr,SdHipSt1-2
+1318,Dr,SdHip1St
+1319,Dr,SdHip2St
+1320,Dr,SdHipL1-2
+1321,Dr,SdHipR1-2
+1322,Dr,SdHip1L
+1323,Dr,SdHip1R
+1324,Dr,SdHip2L
+1325,Dr,SdHip2R
+1326,Dr,SdRkOp1St
+1327,Dr,SdRkOp1L
+1328,Dr,SdRkOp1R
+1329,Dr,SdRkMte1St
+1330,Dr,SdRkMte1L
+1331,Dr,SdRkMte1R
+1332,Dr,SdRkRim1St
+1333,Dr,SnRkRim1L
+1334,Dr,SdRkRim1R
+1335,Dr,SdRkOp2St
+1336,Dr,SdRkOp2L
+1337,Dr,SdRkOp2R
+1338,Dr,SdRkMte2St
+1339,Dr,SdRkMte2L
+1340,Dr,SdRkMte2R
+1341,Dr,SdRkRim2St
+1342,Dr,SdRkRim2L
+1343,Dr,SdRkRim2R
+1344,Dr,SdRkFlmSt
+1345,Dr,SdRkFlmL
+1346,Dr,SdRkFlmR
+1347,Dr,SdPicol
+1348,Dr,SdPcRim
+1349,Dr,SdPcRim2
+1350,Dr,SdMid
+1351,Dr,SdMdRim
+1352,Dr,SdAmb
+1353,Dr,SdGate1
+1354,Dr,SdGate2
+1355,Dr,SdLdwHMono
+1356,Dr,SdBrRim
+1357,Dr,SdDry
+1358,Dr,SdHeavy
+1359,Dr,SdGM
+1360,Dr,SdRkStk1St
+1361,Dr,SdRkStk1L
+1362,Dr,SnRkStk1R
+1363,Dr,SdRkStk2St
+1364,Dr,SdRkStk2L
+1365,Dr,SdRkStk2R
+1366,Dr,SdHpStk1
+1367,Dr,SdHpStk2
+1368,Dr,SdHpStk3
+1369,Dr,SdHpStk4
+1370,Dr,SdHpStk5
+1371,Dr,SdHpStk6St
+1372,Dr,SdHpStk6L
+1373,Dr,SdHpStk6R
+1374,Dr,SdHpStk7
+1375,Dr,SdHipStk8
+1376,Dr,SdClRmSt
+1377,Dr,SdClRmL
+1378,Dr,SdClRmR
+1379,Dr,SdClRim2
+1380,Dr,SdClRim3
+1381,Dr,SdRkRolSt
+1382,Dr,SdRkRolL
+1383,Dr,SdRkRolR
+1384,Dr,SdRkRolDSt
+1385,Dr,SdRkRolDL
+1386,Dr,SdRkRolDR
+1387,Dr,SdLvRolSt
+1388,Dr,SdLvRolL
+1389,Dr,SdLvRolR
+1390,Dr,SdRollMono
+1391,Dr,SdBrMtSt
+1392,Dr,SdBrMtL
+1393,Dr,SdBrMtR
+1394,Dr,SdBrMt2St
+1395,Dr,SdBrMt2L
+1396,Dr,SdBrMt2R
+1397,Dr,SdBrSwrSt
+1398,Dr,SdBrSwrL
+1399,Dr,SdBrSwrR
+1400,Dr,SdBSwrAtSt
+1401,Dr,SdBrSwrAtL
+1402,Dr,SdBrSwrAtR
+1403,Dr,SdMrc1SwSt
+1404,Dr,SdMrc1S St
+1405,Dr,SdMrc1H St
+1406,Dr,SdMrc1Sw L
+1407,Dr,SdMrc1Sw R
+1408,Dr,SdMrc1S L
+1409,Dr,SdMrc1H L
+1410,Dr,SdMrc1S R
+1411,Dr,SdMrc1H R
+1412,Dr,SdMrc2SwSt
+1413,Dr,SdMrc2S St
+1414,Dr,SdMrc2H St
+1415,Dr,SdMrc2Sw L
+1416,Dr,SdMrc2Sw R
+1417,Dr,SdMrc2S L
+1418,Dr,SdMrc2H L
+1419,Dr,SdMrc2S R
+1420,Dr,SdMrc2H R
+1421,Dr,SdMrcRolSt
+1422,Dr,SdMrcRol L
+1423,Dr,SdMrcRol R
+1424,Dr,SdElec1
+1425,Dr,SdElec2
+1426,Dr,SdElec3
+1427,Dr,SdElec4
+1428,Dr,SdElec5
+1429,Dr,SdElec6
+1430,Dr,SdElec7
+1431,Dr,SdElec8
+1432,Dr,SdElec9
+1433,Dr,SdElec10
+1434,Dr,SdElec11
+1435,Dr,SdElec12
+1436,Dr,SdT9-1
+1437,Dr,SdT9-2
+1438,Dr,SdT9-3
+1439,Dr,SdT9-4
+1440,Dr,SdT9-5
+1441,Dr,SdT9Gate
+1442,Dr,SdT9Rim
+1443,Dr,SdT8-1
+1444,Dr,SdT8-2
+1445,Dr,SdT8-3
+1446,Dr,SdT8-4
+1447,Dr,SdT8-5
+1448,Dr,SdT8Rim
+1449,Dr,SdAnSm
+1450,Dr,SdAnSmRim
+1451,Dr,SdAnCR
+1452,Dr,SdAnCRRim
+1453,Dr,SdHuman1
+1454,Dr,SdHuman2
+1455,Dr,SdJngl1
+1456,Dr,SdJngl2
+1457,Dr,SdJngl3
+1458,Dr,SdJnglFx
+1459,Dr,SdD&B1
+1460,Dr,SdD&B2
+1461,Dr,SdD&B3
+1462,Dr,SdD&B4
+1463,Dr,SdR&B1
+1464,Dr,SdR&B1Rm
+1465,Dr,SdR&B2
+1466,Dr,SdHip1
+1467,Dr,SdHip2
+1468,Dr,SdHip3
+1469,Dr,SdHipGate
+1470,Dr,SdHipRm1
+1471,Dr,SdHipRm2
+1472,Dr,SdHipRm3
+1473,Dr,SdHipRm4
+1474,Dr,SdHipRm5
+1475,Dr,SdBreak1
+1476,Dr,SdBreak2
+1477,Dr,SdBreak3
+1478,Dr,SdBreakHvy
+1479,Dr,SdBreakRol
+1480,Dr,SdFx1
+1481,Dr,SdFx2
+1482,Dr,SdFx3
+1483,Dr,SdFx4
+1484,Dr,SdClpAna
+1485,Dr,SdDist
+1486,Dr,SdCut
+1487,Dr,SdDodgH
+1488,Dr,SdDodgL
+1489,Dr,SdFM
+1490,Dr,SdFMRim
+1491,Dr,SdSyn
+1492,Dr,SdClappy
+1493,Dr,SdTimbr
+1494,Dr,SdWood
+1495,Dr,SdHammr
+1496,Dr,SdLofi
+1497,Dr,SdRimSE
+1498,Dr,HHCls1-4St
+1499,Dr,HHCls1 St
+1500,Dr,HHCls2 St
+1501,Dr,HHCls3 St
+1502,Dr,HHCls4 St
+1503,Dr,HHCls1-4 L
+1504,Dr,HHCls1-4 R
+1505,Dr,HHCls1 L
+1506,Dr,HHCls2 L
+1507,Dr,HHCls3 L
+1508,Dr,HHCls4 L
+1509,Dr,HHCls1 R
+1510,Dr,HHCls2 R
+1511,Dr,HHCls3 R
+1512,Dr,HHCls4 R
+1513,Dr,HHCls1-4RL
+1514,Dr,HHCls1 RL
+1515,Dr,HHCls2 RL
+1516,Dr,HHCls3 RL
+1517,Dr,HHCls4 RL
+1518,Dr,HHPdl1-3St
+1519,Dr,HHPdl1 St
+1520,Dr,HHPdl2 St
+1521,Dr,HHPdl3 St
+1522,Dr,HHPdl1-3 L
+1523,Dr,HHPdl1-3 R
+1524,Dr,HHPdl1 L
+1525,Dr,HHPdl2 L
+1526,Dr,HHPdl3 L
+1527,Dr,HHPdl1 R
+1528,Dr,HHPdl2 R
+1529,Dr,HHPdl3 R
+1530,Dr,HHPdl1-3RL
+1531,Dr,HHPdl1 RL
+1532,Dr,HHPdl2 RL
+1533,Dr,HHPdl3 RL
+1534,Dr,HHOpn1-2St
+1535,Dr,HHOpn1 St
+1536,Dr,HHOpn2 St
+1537,Dr,HHOpn1-2 L
+1538,Dr,HHOpn1-2 R
+1539,Dr,HHOpn1 L
+1540,Dr,HHOpn2 L
+1541,Dr,HHOpn1 R
+1542,Dr,HHOpn2 R
+1543,Dr,HHOpn1-2RL
+1544,Dr,HHOpn1 RL
+1545,Dr,HHOpn2 RL
+1546,Dr,HHClFtSt
+1547,Dr,HHClFtL
+1548,Dr,HHClFtR
+1549,Dr,HHClFtRL
+1550,Dr,HHHlf2St
+1551,Dr,HHHlf2L
+1552,Dr,HHHlf2R
+1553,Dr,HHHlf2RL
+1554,Dr,HHOp2St
+1555,Dr,HHOp2L
+1556,Dr,HHOp2R
+1557,Dr,HHOp2RL
+1558,Dr,HHClRkStSw
+1559,Dr,HHClRkRLSw
+1560,Dr,HHClRkSSt
+1561,Dr,HHClRkSRL
+1562,Dr,HHClRkHSt
+1563,Dr,HHClRkHRL
+1564,Dr,HHClRkLSw
+1565,Dr,HHClRkRSw
+1566,Dr,HHClRkSL
+1567,Dr,HHClRkSR
+1568,Dr,HHClRkHL
+1569,Dr,HHClRkHR
+1570,Dr,HHPdRkStSw
+1571,Dr,HHPdRkRLSw
+1572,Dr,HHPdlRkLSw
+1573,Dr,HHPdlRkRSw
+1574,Dr,HHClRk2St
+1575,Dr,HHClRk2L
+1576,Dr,HHClRk2R
+1577,Dr,HHClRk2RL
+1578,Dr,HHPdlRkSt
+1579,Dr,HHPdlRkL
+1580,Dr,HHPdlRkR
+1581,Dr,HHPdlRkRL
+1582,Dr,HHOpRkStSw
+1583,Dr,HHOpRkRLSw
+1584,Dr,HHOpRkSt
+1585,Dr,HHOpRkRL
+1586,Dr,HHHfOpRkSt
+1587,Dr,HHOpRkLSw
+1588,Dr,HHOpRkRSw
+1589,Dr,HHOpRkL
+1590,Dr,HHOpRkR
+1591,Dr,HHHlfOpRkL
+1592,Dr,HHHlfOpRkR
+1593,Dr,HHHfOpRkRL
+1594,Dr,HHClMono
+1595,Dr,HHOpMono
+1596,Dr,HHPdlMono
+1597,Dr,HHClT9
+1598,Dr,HHOpT9
+1599,Dr,HHClT8-1
+1600,Dr,HHOpT8-1
+1601,Dr,HHClT8-2
+1602,Dr,HHOpT8-2
+1603,Dr,HHClRX5
+1604,Dr,HHClAnCR
+1605,Dr,HHOpAnCR
+1606,Dr,HHClBreak
+1607,Dr,HHPdlBreak
+1608,Dr,HHClD&B
+1609,Dr,HHPdlD&B
+1610,Dr,HHOpD&B
+1611,Dr,HHRvD&B
+1612,Dr,HHClTek
+1613,Dr,HHOpTek
+1614,Dr,HHClHip
+1615,Dr,HHPdlHip
+1616,Dr,HHOpHip
+1617,Dr,HHClLoFi
+1618,Dr,HHOpLoFi
+1619,Dr,HHClSyn
+1620,Dr,HHOpSyn
+1621,Dr,HHClFx
+1622,Dr,HHOpFx
+1623,Dr,HHOpHuman
+1624,Dr,TomHi St
+1625,Dr,TomHi L
+1626,Dr,TomHi R
+1627,Dr,TomHi RL
+1628,Dr,TomMid St
+1629,Dr,TomMid L
+1630,Dr,TomMid R
+1631,Dr,TomMid RL
+1632,Dr,TomLow St
+1633,Dr,TomLow L
+1634,Dr,TomLow R
+1635,Dr,TomLow RL
+1636,Dr,TomFlr St
+1637,Dr,TomFlr L
+1638,Dr,TomFlr R
+1639,Dr,TomFlr RL
+1640,Dr,TomRkHiSt
+1641,Dr,TomRkHiL
+1642,Dr,TomRkHiR
+1643,Dr,TomRkHiRL
+1644,Dr,TomRkMdSt
+1645,Dr,TomRkMdL
+1646,Dr,TomRkMdR
+1647,Dr,TomRkMdRL
+1648,Dr,TomRkLoSt
+1649,Dr,TomRkLoL
+1650,Dr,TomRkLoR
+1651,Dr,TomRkLoRL
+1652,Dr,TomMonoHi
+1653,Dr,TomMonoLo
+1654,Dr,TomDryHi
+1655,Dr,TmDryLo
+1656,Dr,TomAmbHi
+1657,Dr,TomAmbLo
+1658,Dr,TomT9Hi
+1659,Dr,TomT9Lo
+1660,Dr,TomT8
+1661,Dr,TomSyn1
+1662,Dr,TomSyn2
+1663,Dr,TomAnSm
+1664,Dr,TomDistHi
+1665,Dr,TomDistLo
+1666,Dr,CrashCymSt
+1667,Dr,CrashCym L
+1668,Dr,CrashCym R
+1669,Dr,CrashCymRL
+1670,Dr,CrashSt
+1671,Dr,CrashL
+1672,Dr,CrashR
+1673,Dr,CrashRL
+1674,Dr,Crash
+1675,Dr,Crash2
+1676,Dr,HndCymOpSt
+1677,Dr,HndCymOp L
+1678,Dr,HndCymOp R
+1679,Dr,HndCymMtSt
+1680,Dr,HndCymMt L
+1681,Dr,HndCymMt R
+1682,Dr,RideCym St
+1683,Dr,RideCym L
+1684,Dr,RideCym R
+1685,Dr,RideCym RL
+1686,Dr,RideSt
+1687,Dr,RideL
+1688,Dr,RideR
+1689,Dr,RideRL
+1690,Dr,RideCup St
+1691,Dr,RideCup L
+1692,Dr,RideCup R
+1693,Dr,RideCup RL
+1694,Dr,CupSt
+1695,Dr,CupL
+1696,Dr,CupR
+1697,Dr,CupRL
+1698,Dr,RideMono
+1699,Dr,CupMono
+1700,Dr,CupMono2
+1701,Dr,ChinaSt
+1702,Dr,ChinaL
+1703,Dr,ChinaR
+1704,Dr,ChinaRL
+1705,Dr,China
+1706,Dr,SplashSt
+1707,Dr,SplashL
+1708,Dr,SplashR
+1709,Dr,SplashRL
+1710,Dr,CrashT9
+1711,Dr,CrashT8
+1712,Dr,CrashSyn
+1713,Dr,RideT9
+1714,Dr,RevCymbal
+1715,Se,Ag FX01 St
+1716,Se,Ag FX01 L
+1717,Se,Ag FX01 R
+1718,Se,Ag FX02 St
+1719,Se,Ag FX02 L
+1720,Se,Ag FX02 R
+1721,Se,Ag FX03 St
+1722,Se,Ag FX03 L
+1723,Se,Ag FX03 R
+1724,Se,Ag FX04 St
+1725,Se,Ag FX04 L
+1726,Se,Ag FX04 R
+1727,Se,Ag FX05 St
+1728,Se,Ag FX05 L
+1729,Se,Ag FX05 R
+1730,Se,Ag FX06 St
+1731,Se,Ag FX06 L
+1732,Se,Ag FX06 R
+1733,Se,Ag FX07 St
+1734,Se,Ag FX07 L
+1735,Se,Ag FX07 R
+1736,Se,Ag FX08 St
+1737,Se,Ag FX08 L
+1738,Se,Ag FX08 R
+1739,Se,Ag FX09 St
+1740,Se,Ag FX09 L
+1741,Se,Ag FX09 R
+1742,Se,Ag FX10 St
+1743,Se,Ag FX10 L
+1744,Se,Ag FX10 R
+1745,Se,Ag FX11 St
+1746,Se,Ag FX11 L
+1747,Se,Ag FX11 R
+1748,Se,Ag FX12 St
+1749,Se,Ag FX12 L
+1750,Se,Ag FX12 R
+1751,Se,Ag FX13 St
+1752,Se,Ag FX13 L
+1753,Se,Ag FX13 R
+1754,Se,Ag FX14 St
+1755,Se,Ag FX14 L
+1756,Se,Ag FX14 R
+1757,Se,Ag FX15 St
+1758,Se,Ag FX15 L
+1759,Se,Ag FX15 R
+1760,Se,Ag FX16 St
+1761,Se,Ag FX16 L
+1762,Se,Ag FX16 R
+1763,Se,Ag FX17 St
+1764,Se,Ag FX17 L
+1765,Se,Ag FX17 R
+1766,Se,Ag FX18 St
+1767,Se,Ag FX18 L
+1768,Se,Ag FX18 R
+1769,Se,Ag FX19 St
+1770,Se,Ag FX19 L
+1771,Se,Ag FX19 R
+1772,Se,Ag FX20 St
+1773,Se,Ag FX20 L
+1774,Se,Ag FX20 R
+1775,Se,Ag FX21 St
+1776,Se,Ag FX21 L
+1777,Se,Ag FX21 R
+1778,Se,Ag FX22 St
+1779,Se,Ag FX22 L
+1780,Se,Ag FX22 R
+1781,Se,Ag FX23 St
+1782,Se,Ag FX23 L
+1783,Se,Ag FX23 R
+1784,Se,Ag FX24 St
+1785,Se,Ag FX24 L
+1786,Se,Ag FX24 R
+1787,Se,Ag FX25 St
+1788,Se,Ag FX25 L
+1789,Se,Ag FX25 R
+1790,Se,Ag FX26 St
+1791,Se,Ag FX26 L
+1792,Se,Ag FX26 R
+1793,Se,Ag FX27 St
+1794,Se,Ag FX27 L
+1795,Se,Ag FX27 R
+1796,Se,Ag FX28 St
+1797,Se,Ag FX28 L
+1798,Se,Ag FX28 R
+1799,Se,Ag FX29 St
+1800,Se,Ag FX29 L
+1801,Se,Ag FX29 R
+1802,Se,Ag FX30 St
+1803,Se,Ag FX30 L
+1804,Se,Ag FX30 R
+1805,Se,Eg FX01
+1806,Se,Eg FX02
+1807,Se,Eg FX03
+1808,Se,Eg FX04
+1809,Se,Eg FX05
+1810,Se,Eg FX06
+1811,Se,Eg FX07
+1812,Se,Eg FX08
+1813,Se,Eg FX09
+1814,Se,Eg FX10
+1815,Se,Eg FX11
+1816,Se,Eg FX12
+1817,Se,Eg FX13
+1818,Se,Eg FX14
+1819,Se,Eg FX15
+1820,Se,Eg FX16
+1821,Se,Eg FX17
+1822,Se,Eg FX18
+1823,Se,Eg FX19
+1824,Se,Eg FX20
+1825,Se,Eg FX21
+1826,Se,Eg FX22
+1827,Se,Eg FX23
+1828,Se,Ab FX01
+1829,Se,Ab FX02
+1830,Se,Ab FX03
+1831,Se,Ab FX04
+1832,Se,Ab FX05
+1833,Se,Ab FX06
+1834,Se,Ab FX07
+1835,Se,Ab FX08
+1836,Se,Ab FX09
+1837,Se,Eb FX 01
+1838,Se,Eb FX 02
+1839,Se,Eb FX 03
+1840,Se,Eb FX 04
+1841,Se,Eb FX 05
+1842,Se,Eb FX 06
+1843,Se,Eb FX 07
+1844,Se,Eb FX 08
+1845,Se,Eb FX 09
+1846,Se,Eb FX 10
+1847,Se,Eb FX 11
+1848,Se,Eb FX 12
+1849,Se,Eb FX 13
+1850,Se,Eb FX 14
+1851,Se,Eb FX 15
+1852,Se,Eb FX 16
+1853,Se,Eb FX 17
+1854,Se,Eb FX 18
+1855,Se,Eb FX 19
+1856,Se,Eb FX 20
+1857,Se,Eb FX 21
+1858,Se,Eb FX 22
+1859,Se,Eb FX 23
